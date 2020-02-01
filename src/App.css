@@ -96,3 +96,11 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
+
+.search-bar{
+  width: 40rem;
+  height: 2rem;
+  border-radius: 2rem;
+  margin-left: 20rem;
+}
